@@ -1,4 +1,5 @@
 ### Decision Tree Classifier From Scratch
+<img src="https://64.media.tumblr.com/ca37102ccf7dd75783ab5fe393c77a84/tumblr_p2eonp6k261uuvpt3o1_500.gif" width="150"/>
 I built a decision tree from scratch (python), using information gain as splitting criterion to classify poisonous and edible mushrooms. The information gain algorithm used is outlined <a href="https://www-users.cse.umn.edu/~kumar001/dmbook/ch3_classification.pdf">here.</a> This was my first introduction to using jupyter notebook, as well as data wrangling in python.
 
 #### Data
